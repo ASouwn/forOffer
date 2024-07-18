@@ -1,3 +1,13 @@
+# 关于spring
+> - 什么是spring
+> - 为什么使用spring
+- autowired和resource的区别
+- 依赖注入的方式
+- 关于spring mvc
+- 关于spring aop
+- 关于spring ioc
+
+
 ## 什么是spring
 简化web应用开发一个轻量级框架，他的基本版本只有2M，基于POJO的编程模型
 ## 为什么使用，spring的好处
