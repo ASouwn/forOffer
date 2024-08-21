@@ -17,7 +17,6 @@ func shortestDistanceAfterQueries(n int, queries [][]int) (res []int) {
 	for i := range road {
 		road[i] = i
 	}
-
 	find := func(x int) (key int) {
 		key = x
 		//寻找x的祖先节点
