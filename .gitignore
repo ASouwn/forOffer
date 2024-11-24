@@ -1,0 +1,8 @@
+funcDemo/Demo/.vscode/settings.json
+.vscode/settings.json
+funcDemo/spi_demo/target/classes/Interface/com.asouwn.inter.Interface
+funcDemo/spi_demo/target/classes/com/asouwn/Main.class
+funcDemo/spi_demo/target/classes/com/asouwn/SpiLoader.class
+funcDemo/spi_demo/target/classes/com/asouwn/impl/ImplA.class
+funcDemo/spi_demo/target/classes/com/asouwn/impl/ImplB.class
+funcDemo/spi_demo/target/classes/com/asouwn/inter/Interface.class
