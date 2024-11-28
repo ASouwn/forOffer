@@ -6,3 +6,11 @@ funcDemo/spi_demo/target/classes/com/asouwn/SpiLoader.class
 funcDemo/spi_demo/target/classes/com/asouwn/impl/ImplA.class
 funcDemo/spi_demo/target/classes/com/asouwn/impl/ImplB.class
 funcDemo/spi_demo/target/classes/com/asouwn/inter/Interface.class
+funcDemo/method_handler_demo/.vscode/settings.json
+funcDemo/method_handler_demo/target/classes/com/asouwn/Main.class
+funcDemo/lambda_factory/target/classes/com/asouwn/Main.class
+funcDemo/lambda_factory/target/classes/com/asouwn/A.class
+funcDemo/lambda_factory/target/classes/com/asouwn/Interface.class
+funcDemo/lambda_factory/target/classes/com/asouwn/LambdaFactory.class
+funcDemo/lambda_factory/target/classes/com/asouwn/LambdaFactory$1.class
+funcDemo/method_handler_demo/target/classes/com/asouwn/A.class
